@@ -2,7 +2,9 @@
 
 - Contains 3 projects:
 	-**FizzBuzz** is a console application using new simplified style and dependency injection (for tests purpose)
+  
 	-**TestFizzBuzz** is unit tests project for testing FizzBuzz
+  
 	-**FancyPhilipsFizzbuzz** is a fancy console application with a kinf-off animation
 
 	## Installation and running of FizzBuzz in Visual Studio 
