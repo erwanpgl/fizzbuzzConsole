@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "FancyPhilipsFizzBuzz": {
+      "commandName": "Project",
+      "commandLineArgs": "3 4 200000000 anticonstitutionnellement buzzBuzzy"
+    }
+  }
+}
