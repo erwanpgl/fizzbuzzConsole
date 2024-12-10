@@ -1,6 +1,7 @@
 # FizzBuzz Application
 
 - Contains 3 projects:
+  
 	-**FizzBuzz** is a console application using new simplified style and dependency injection (for tests purpose)
   
 	-**TestFizzBuzz** is unit tests project for testing FizzBuzz
