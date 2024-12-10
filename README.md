@@ -6,7 +6,7 @@
   
 	-**TestFizzBuzz** is unit tests project for testing FizzBuzz
   
-	-**FancyPhilipsFizzbuzz** is a fancy console application with a kind-off animation
+	-**FancyPhilipsFizzbuzz** is a fancy console application with an animation-like
 
 	## Installation and running of FizzBuzz in Visual Studio 
 
